@@ -1,0 +1,17 @@
+ADA_002_EMBEDDING = "text-embedding-ada-002"
+AWS = "aws"
+GCP = "gcp"
+REGION_US_CENTRAL = "us-central1"
+PINECONE_INDEX_NAME_PORTFOLIO_PROJECT = "onur-portfolio-rag"
+STATUS_READY = "ready"
+METRIC_DOT_PRODUCT = "dotproduct"
+
+COLUMN_THESIS_RAW = "THESIS"
+THESIS_DATA_PATH = "./text_data/thesis_plain"
+SEPARATOR = "###"
+PINECONE = "PINECONE"
+CHROMADB = "CHROMADB"
+QUERY_ARG = "-q"
+PROCESSING_QUERY = "processing query..."
+UNEXPECTED_ARG_FORMAT_MSG = "unexpected arg"
+
